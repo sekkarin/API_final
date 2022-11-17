@@ -1,0 +1,4 @@
+ทำตามกันนะพวกท่านเจริญ
+1 npm install --save
+2 ตั้งค่าตัวแปร ไฟล์ configDB.js ให้ตรงกับ database เรา
+3 npm run dev เป็นการรันโปรเจค
